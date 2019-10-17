@@ -1,0 +1,34 @@
+{
+  "name": "NutrienAuth",
+  "description": "A few different implementations of Authentication Services and <PrivateRoute> ",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nutrien/foo.git"
+  },
+  "main": "./index.js",
+  "keywords": [
+    "cognito",
+    "authentication",
+    "nutrien",
+    "Tim",
+    "active directory"
+  ],
+  "directories": {
+    "lib": ".",
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "expresso"
+  },
+  "devDependencies": {
+    "tape": "^4.0.0"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Tim White",
+    "email": "tim.white@nutrien.com",
+    "url": "http://www.nutrien.com"
+  }
+}
