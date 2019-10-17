@@ -15,9 +15,6 @@
     "active directory"
   ],
   "directories": {
-    "lib": ".",
-    "example": "example",
-    "test": "test"
   },
   "scripts": {
     "test": "expresso"
